@@ -15,7 +15,7 @@ It also helps ensure correctness, robustness, and compatibility. Maxims of good 
 * Be explicit
 * Be specific
 * Be concise
-* Be consisten
+* Be consistent
 * Be helpful (anticipate the reader's needs)
 * Be conventional (don't be obscure)
 * Build abstractions at a usable level
