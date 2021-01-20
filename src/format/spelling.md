@@ -2,7 +2,7 @@
 
 Use correct spelling in your comments, and most importantly in your identifiers. The LFE documentation projects (books and reference materials) use `aspell` and include `make` targets for running various spell-checking tasks across the project files. Feel free to borrow from these for your own projects.
 
-Use common and domain-specific abbreviations, and must be consistent with these abbreviations. You may abbreviate lexical variables of limited scope in order to avoid overly-long symbol names.
+Use common and domain-specific abbreviations, and be consistent with these abbreviations. You may abbreviate lexical variables of limited scope in order to avoid overly-long symbol names.
 
 If you're not sure, consult a dictionary, look up alternative spellings in a dictionary, or ask a local expert.
 
