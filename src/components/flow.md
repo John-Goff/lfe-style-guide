@@ -24,7 +24,7 @@ Should be refactored to something like this:
                   (crew rocket))
        (sensors-working? rocket)))
 
-(if (rocket-ready-p rocket)
+(if (rocket-ready? rocket)
   (launch rocket)
   (! pid `#(err "Aborting launch.")))
 ```
